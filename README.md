@@ -1,2 +1,2 @@
 # JavascriptFibbonacciPalindrome
-A fibbonacci Sequence Generator and Palindrome checker written in javascript
+A basic fibbonacci Sequence Generator and Palindrome checker written in javascript
